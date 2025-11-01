@@ -75,6 +75,8 @@ The Power BI dashboard includes:
 2. Load the provided **car_sales_dataset.csv** or **Excel file**.  
 3. Refresh the data model and explore the dashboard interactively.  
 
+
+https://app.powerbi.com/links/25n43z-UQD?ctid=bf93bb5e-ecf0-4e3d-be0e-79b5cc527a48&pbi_source=linkShare
 ---
 
 ⭐ **If you like this project, give it a star on GitHub!**
